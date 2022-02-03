@@ -1,0 +1,13 @@
+{
+  "Title": "Quacks S\u0026box Resources",
+  "Type": "game",
+  "Org": "local",
+  "Ident": "quacks-sbox-resources",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": "Sandbox"
+}
