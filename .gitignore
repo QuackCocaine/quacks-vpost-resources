@@ -22,23 +22,19 @@
 *.vjs_c
 *.vcss_c
 
-# Blender and Other files
+# Other files
 
-*.blend
-*.blend1
 *.spp
 *.sbs
+*.7z
+tools_asset_info.bin
+_bakeresourcecache
 
 # Images
 
 *.tga
 *.psd
 *.png
-
-# other
-_bakeresourcecache
-tools_asset_info.bin
-*.7z
 
 # Directories
 
