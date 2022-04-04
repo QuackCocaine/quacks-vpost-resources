@@ -9,7 +9,7 @@
 			m_nOpacityPercent = 100
 			m_bVisible = true
 			m_pLayerMask = null
-			m_fileName = "G:/Games/SteamLibrary/steamapps/common/sbox/addons/left4dead2-source2/lighting/postprocessing/left4dead2_dlc3/raw/smalltown_mainstreet.pwl.raw"
+			m_fileName = "lighting/postprocessing/left4dead2_dlc3/raw/smalltown_mainstreet.pwl.raw"
 			m_lut = 
 			[
 				0.0, 0.0, 0.0, 0.027451,
