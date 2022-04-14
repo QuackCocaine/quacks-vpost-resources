@@ -40,7 +40,7 @@
 			m_nOpacityPercent = 100
 			m_bVisible = true
 			m_pLayerMask = null
-			m_fileName = "lighting/postprocessing/left4dead2lighting/postprocessing/left4dead2/raw/cc_c1_mall.raw"
+			m_fileName = "lighting/postprocessing/left4dead2/raw/cc_c1_mall.raw"
 			m_lut = 
 			[
 				0.0, 0.0, 0.0, 0.027451,
