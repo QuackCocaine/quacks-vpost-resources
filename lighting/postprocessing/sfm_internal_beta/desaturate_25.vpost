@@ -9,7 +9,7 @@
 			m_nOpacityPercent = 100
 			m_bVisible = true
 			m_pLayerMask = null
-			m_fileName = "../../sbox/addons/quacks-sbox-resources/lighting/postprocessing/sfm_internal_beta/raw/desaturate_25.raw"
+			m_fileName = "lighting/postprocessing/sfm_internal_beta/raw/desaturate_25.raw"
 			m_lut = 
 			[
 				0.0, 0.0, 0.0, 0.031373,
